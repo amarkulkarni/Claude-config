@@ -72,7 +72,7 @@ All code changes follow this workflow. Documentation/config changes may commit d
 
 ## Memory & Context Persistence
 
-**Local memory** (per-project): `/Users/amarkulkarni/.claude/projects/<project>/memory/`
+**Local memory** (per-project): `~/.claude/projects/<project>/memory/`
 - Auto-loads each Claude session in that project
 - Stores architecture, decisions, learnings
 - Not committed to git
